@@ -9,8 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("second commit")
-
-        this will be error
-
     }
 }
