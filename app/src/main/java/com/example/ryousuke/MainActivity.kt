@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("second commit")
         println("you did branch")
-        println("change here again!!")
+        println("change here 2 times!!")
         print("Third change here!!")
     }
 }
