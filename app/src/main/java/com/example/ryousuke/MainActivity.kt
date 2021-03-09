@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         println("second commit")
         println("you did branch")
         println("change here many times!!")
-        print("Third change here!!")
+        println("Third change here!!")
+
+        println("hello from cloned local machine")
     }
 }
